@@ -5,12 +5,32 @@
 # Description
 *************
 -📌 Absolutely FUD
+
 -📌 unrecognizable
+
 -📌 Please do not scan in online antivirus
+
 -📌 The source code was made available to users for free.
+
 -📌 Respect copyright
+
 -📌 enjoy
 
+# See how it works v2.0.0
+----------------------
+- 🔞 V1.0..0  
+-  https://t.me/M4nifest0/332
+
+# ☠️👊 M4nifest0 Black Hat Hacking Team™💪🏴‍☠️:
+----------------------
+- 📌 Visit our channel or our site to download .
+
+- 🔞 https://m4nifest0.com
+- 🔞 https://m4nifest0.group
+- 🔞 https://m4nifest0.shop
+- 🔞 https://t.me/M4nifest0
+
+----------------------
 
 
 <p align="center">	
