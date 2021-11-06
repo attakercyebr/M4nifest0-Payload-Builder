@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "M4nifest0 Payload Builder", "BatchPayload\M4nifest0 Payload Builder.csproj", "{DAD00BAD-B827-442B-ADB1-DA6C4967A087}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DAD00BAD-B827-442B-ADB1-DA6C4967A087}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD00BAD-B827-442B-ADB1-DA6C4967A087}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD00BAD-B827-442B-ADB1-DA6C4967A087}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD00BAD-B827-442B-ADB1-DA6C4967A087}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6B5FD2B4-0F8C-488C-B657-3116E8C9CB1C}
+	EndGlobalSection
+EndGlobal
