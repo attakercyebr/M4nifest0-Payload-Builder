@@ -1,5 +1,3 @@
-# ![Locations](https://github.com/attakercyebr/exploit-doc-product-box/blob/main/exploit-doc-product-box.png) 
-
 # ![Locations](https://github.com/attakercyebr/M4nifest0-Payload-Builder/blob/main/M4nifest0%20Payload%20Builder.png) 
 
 # ![Locations](https://github.com/attakercyebr/M4nifest0-Payload-Builder/blob/main/M4nifest0%20Payload%20Builder1.png) 
