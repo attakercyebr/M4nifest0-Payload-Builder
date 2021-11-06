@@ -20,7 +20,6 @@
 ----------------------
 - 🔞 V1.0..0  
 -  https://m4nifest0.group/product/payload-builder/
--  https://dll.m4nifest0.com/0:/M4nifest0%20Payload%20Builder.mp4
 
 # ☠️👊 M4nifest0 Black Hat Hacking Team™💪🏴‍☠️:
 ----------------------
